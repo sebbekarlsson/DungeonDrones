@@ -1,4 +1,4 @@
-package DungeonDrones;
+package DungeonDrones.src.main;
 
 import org.lwjgl.input.Keyboard;
 
